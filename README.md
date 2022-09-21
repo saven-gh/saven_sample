@@ -1,4 +1,3 @@
 # saven_application
-Тест
-# Здесь мб что-то будет
-# хочу питсы
+Test
+I don't know what to write.
